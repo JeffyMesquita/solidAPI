@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffyMesquita/solidAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeffyMesquita/solidAPI/issues"
+  },
+  "homepage": "https://github.com/JeffyMesquita/solidAPI#readme"
 }
